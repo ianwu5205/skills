@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fill surveys"
+  short_description: "Fill surveys with standing answer rules"
+  default_prompt: "Use $survey-filling to complete this survey in the browser."
+
+policy:
+  allow_implicit_invocation: true
