@@ -2,6 +2,11 @@
 
 Fill a customer feedback survey or questionnaire in the browser, following the user's standing answer rules, pausing on questions that cannot be answered honestly, and confirming with the user before submitting.
 
+## Personal information
+
+- Read `MEMORY.md` to get personal information.
+- If no personal information is available, ask the user before filling any personal fields.
+
 ## Start the survey
 
 - Accept the survey as a link, a receipt photo, or a certificate or survey code the user supplies, and read every visible detail from it before opening the survey.
@@ -20,7 +25,7 @@ Fill a customer feedback survey or questionnaire in the browser, following the u
 
 - For any question asking what could be improved, write that everything is currently good and there is nothing particular to report.
 
-- Fill personal details silently from the user's on file details in memory, and never invent a name, email address, phone number, postal code, birthday, or membership number.
+- Fill personal details from `MEMORY.md` (or answers the user provided after being asked), and never invent a name, email address, phone number, postal code, birthday, or membership number.
 
 - For a factual question with a neutral option such as don't remember, not applicable, or prefer not to answer, choose the neutral option.
 
