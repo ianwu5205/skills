@@ -19,6 +19,8 @@ Fill a customer feedback survey or questionnaire in the browser, following the u
 
 ## Answer with the standing rules
 
+- Only fill required fields; leave optional fields blank, except always fill the membership card number when that field appears.
+
 - For every satisfaction or rating question, randomly choose between the top two positive options, and vary the pick from question to question instead of always selecting the same one.
 
 - For every open ended text question, write a brief positive comment in simple English.
