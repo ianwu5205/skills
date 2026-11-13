@@ -45,6 +45,14 @@ Fill a customer feedback survey or questionnaire in the browser, following the u
 
 - For the checkout duration question (from lining up or walking to the register through paying and collecting items), randomly select a time between 20 and 30 minutes.
 
+- For any question asking whether you have a membership, always answer Yes.
+
+- For any question asking dine-in, takeout, or delivery to the table, always answer takeout.
+
+- For any question asking whether you brought a child under 13, always answer No.
+
+- For any question about receiving coupons by email, always opt in and choose email.
+
 ## Standing defaults for Shoppers surveys
 
 - For the question about which areas of the store were visited, always select Other Areas of the Store.
@@ -53,7 +61,7 @@ Fill a customer feedback survey or questionnaire in the browser, following the u
 
 - If the site shows a JavaScript alert or warning popup because of a wrong entry, take a screenshot, stop, and report it to the user.
 
-- Leave any marketing or newsletter opt in unchecked, and if the form cannot be submitted without it, stop and get the user's explicit approval before checking it.
+- Opt in to email coupons when offered. Leave other marketing or newsletter opt-ins unchecked unless required; if a non-coupon marketing opt-in is required to submit, stop and get the user's explicit approval before checking it.
 
 - Before checking a box that affirms the user read and agreed to terms and conditions, confirm with the user first.
 
